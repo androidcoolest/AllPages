@@ -1,0 +1,9 @@
+name: Suite
+parallel: methods
+configFailurePolicy: skip
+tests:
+  - name: Test
+    parallel: methods
+    classes:
+      - com.example.ParallelTestingGrid.ParallelTest
+

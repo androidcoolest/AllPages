@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3349" started-at="2018-04-29T19:43:19Z" finished-at="2018-04-29T19:43:22Z">
+  <suite name="Default suite" duration-ms="3975" started-at="2018-05-23T16:46:25Z" finished-at="2018-05-23T16:46:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3349" started-at="2018-04-29T19:43:19Z" finished-at="2018-04-29T19:43:22Z">
+    <test name="Default test" duration-ms="3975" started-at="2018-05-23T16:46:25Z" finished-at="2018-05-23T16:46:29Z">
       <class name="com.myproject.imdb.topMovies">
-        <test-method status="PASS" signature="getTopMovies()[pri:0, instance:com.myproject.imdb.topMovies@59fa1d9b]" name="getTopMovies" duration-ms="3323" started-at="2018-04-29T19:43:19Z" finished-at="2018-04-29T19:43:22Z">
+        <test-method status="PASS" signature="getTopMovies()[pri:0, instance:com.myproject.imdb.topMovies@59fa1d9b]" name="getTopMovies" duration-ms="3950" started-at="2018-05-23T16:46:25Z" finished-at="2018-05-23T16:46:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getTopMovies -->

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.depositsolution.assignment2.LoginTest" preserve-order="true"/>
+		<methods>
+                <include name="deleteAllUsersApi" />
+                <include name="checkPositiveFlow" />
+                <include name="checkUserNameEmpty" />
+                <include name="checkUsernameIsUnique" />
+                <include name="checkEmailFieldEmpty" />
+                <include name="checkEmailIdIsUnique" />
+                <include name="checkEmailIdWithoutAtSymbol" />
+                <include name="checkPasswordEmpty" />
+                <include name="checkPasswordShorterThan6Char" />
+                <include name="checkRepeatPasswordDifferent" />
+                <include name="createMultipleValidUsers" />
+                <include name="clickAllUserButton" />
+                <include name="getUserAPI" />
+            </methods>
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

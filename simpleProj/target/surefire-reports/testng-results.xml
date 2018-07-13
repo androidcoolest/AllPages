@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20" started-at="2018-04-22T20:17:43Z" finished-at="2018-04-22T20:17:43Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="20" started-at="2018-04-22T20:17:43Z" finished-at="2018-04-22T20:17:43Z">
+      <class name="com.myproject.simpleProj.sampleTest">
+        <test-method status="PASS" signature="simpleMethod()[pri:0, instance:com.myproject.simpleProj.sampleTest@5ae63ade]" name="simpleMethod" duration-ms="4" started-at="2018-04-22T20:17:43Z" finished-at="2018-04-22T20:17:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleMethod -->
+      </class> <!-- com.myproject.simpleProj.sampleTest -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite -->
+</testng-results>

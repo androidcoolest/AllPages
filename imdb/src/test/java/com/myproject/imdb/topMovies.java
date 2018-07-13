@@ -21,7 +21,8 @@ public class topMovies {
 		//Browser to xPath
 		for(int count=1;count<=3;count++)
 		{
-			String linkText=driver.findElement(By.xpath(commonXPath+"/div["+count+"]/div[3]/h3/a")).getText();
+			String customXpath=commonXPath+"/div["+count+"]/div[3]/h3/a";
+			String linkText=driver.findElement(By.xpath(customXpath)).getText();
 			System.out.println(linkText);
 		}
 		

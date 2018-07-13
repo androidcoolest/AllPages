@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25921" started-at="2018-07-05T09:54:43Z" finished-at="2018-07-05T09:55:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25921" started-at="2018-07-05T09:54:43Z" finished-at="2018-07-05T09:55:09Z">
+      <class name="com.example.ParallelTestingGrid.ParallelTest">
+        <test-method status="PASS" signature="startTime()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="startTime" is-config="true" duration-ms="16441" started-at="2018-07-05T09:54:43Z" finished-at="2018-07-05T09:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="setup" is-config="true" duration-ms="0" started-at="2018-07-05T09:54:59Z" finished-at="2018-07-05T09:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="first()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="first" duration-ms="7897" started-at="2018-07-05T09:54:59Z" finished-at="2018-07-05T09:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="secondChrome()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="secondChrome" duration-ms="2707" started-at="2018-07-05T09:54:59Z" finished-at="2018-07-05T09:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondChrome -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="setup" is-config="true" duration-ms="0" started-at="2018-07-05T09:54:59Z" finished-at="2018-07-05T09:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="third()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="third" duration-ms="7909" started-at="2018-07-05T09:54:59Z" finished-at="2018-07-05T09:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="PASS" signature="second()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="second" duration-ms="7922" started-at="2018-07-05T09:54:59Z" finished-at="2018-07-05T09:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="setup" is-config="true" duration-ms="0" started-at="2018-07-05T09:54:59Z" finished-at="2018-07-05T09:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="setup" is-config="true" duration-ms="0" started-at="2018-07-05T09:54:59Z" finished-at="2018-07-05T09:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="setup" is-config="true" duration-ms="0" started-at="2018-07-05T09:54:59Z" finished-at="2018-07-05T09:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="firstChrome()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="firstChrome" duration-ms="2731" started-at="2018-07-05T09:54:59Z" finished-at="2018-07-05T09:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstChrome -->
+        <test-method status="PASS" signature="myAfterTest()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="myAfterTest" is-config="true" duration-ms="0" started-at="2018-07-05T09:55:02Z" finished-at="2018-07-05T09:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+        <test-method status="PASS" signature="thirdChrome()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="thirdChrome" duration-ms="2019" started-at="2018-07-05T09:55:02Z" finished-at="2018-07-05T09:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdChrome -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="setup" is-config="true" duration-ms="0" started-at="2018-07-05T09:55:02Z" finished-at="2018-07-05T09:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="myAfterTest()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="myAfterTest" is-config="true" duration-ms="0" started-at="2018-07-05T09:55:02Z" finished-at="2018-07-05T09:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+        <test-method status="PASS" signature="myAfterTest()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="myAfterTest" is-config="true" duration-ms="0" started-at="2018-07-05T09:55:04Z" finished-at="2018-07-05T09:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+        <test-method status="PASS" signature="myAfterTest()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="myAfterTest" is-config="true" duration-ms="1" started-at="2018-07-05T09:55:07Z" finished-at="2018-07-05T09:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+        <test-method status="PASS" signature="myAfterTest()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="myAfterTest" is-config="true" duration-ms="1" started-at="2018-07-05T09:55:07Z" finished-at="2018-07-05T09:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+        <test-method status="PASS" signature="myAfterTest()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="myAfterTest" is-config="true" duration-ms="1" started-at="2018-07-05T09:55:07Z" finished-at="2018-07-05T09:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+        <test-method status="FAIL" signature="afterClassMethod()[pri:0, instance:com.example.ParallelTestingGrid.ParallelTest@6d4b1c02]" name="afterClassMethod" is-config="true" duration-ms="1516" started-at="2018-07-05T09:55:07Z" finished-at="2018-07-05T09:55:09Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.example.ParallelTestingGrid.ParallelTest.afterClassMethod(ParallelTest.java:113)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:214)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassMethod -->
+      </class> <!-- com.example.ParallelTestingGrid.ParallelTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

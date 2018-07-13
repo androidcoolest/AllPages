@@ -1,0 +1,67 @@
+KPMG what to Read:
+---------------------------------------------------------------
+Selenium: 
+Intv Q:
+https://geteasyqa.com/qa/best-selenium-interview-questions/
+https://www.softwaretestinghelp.com/selenium-interview-questions-answers/
+https://www.edureka.co/blog/interview-questions/selenium-interview-questions-answers/
+https://www.softwaretestingmaterial.com/selenium-interview-questions/
+https://www.guru99.com/top-100-selenium-interview-questions-answers.html
+Tutorial:
+https://www.guru99.com/selenium-tutorial.html
+IE Challenges:
+http://toolsqa.com/selenium-webdriver/challenges-to-run-selenium-scripts-with-ie-browser/
+
+Knowledge of BrowserStack / Similar tool:
+https://wiki.saucelabs.com/display/DOCS/Java+Test+Setup+Example
+https://www.browserstack.com/automate/java
+
+C# using Visual Studio IDE:
+https://www.guru99.com/selenium-csharp-tutorial.html
+
+BDD tools such as SpecFlow or Cucumber:
+SpecFlow:
+http://toolsqa.com/specflow/feature-file/
+https://www.tutorialspoint.com/behavior_driven_development/behavior_driven_development_and_specflow.htm
+Gherkin:
+https://docs.cucumber.io/gherkin/reference/
+https://saucelabs.com/blog/write-great-cucumber-tests
+
+Knowledge of TeamCity, Git, Stash:
+Git:
+http://jonas.nitro.dk/git/quick-reference.html
+https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+Stash:
+https://www.atlassian.com/blog/archives/atlassian-stash-enterprise-git-repository-management
+https://www.atlassian.com/git/tutorials/saving-changes/git-stash
+TeamCity:
+https://en.wikipedia.org/wiki/TeamCity
+
+Test Plans (IMP):
+http://softwaretestingfundamentals.com/test-plan/
+
+Zephyr:
+https://marketplace.atlassian.com/vendors/17834/zephyr
+
+Mobile Testing:
+iOS: 
+https://www.guru99.com/getting-started-with-ios-testing.html
+Android:
+https://www.guru99.com/why-android-testing.html
+
+SQL:
+https://www.tutorialspoint.com/sql/sql-quick-guide.htm
+
+Knowledge Desired in:
+Appium: 
+https://www.guru99.com/introduction-to-appium.html
+https://www.wisdomjobs.com/e-university/appium-interview-questions.html
+JMeter: https://www.tutorialspoint.com/jmeter/jmeter_quick_guide.htm
+User Acceptance Testing: https://www.softwaretestinghelp.com/what-is-user-acceptance-testing-uat/
+testing APIs: Postman: https://medium.com/aubergine-solutions/api-testing-using-postman-323670c89f6d 
+
+
+
+
+
+

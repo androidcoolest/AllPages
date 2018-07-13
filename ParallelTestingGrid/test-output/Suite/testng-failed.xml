@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
+  <test thread-count="5" name="Test(failed)" parallel="methods">
+    <classes>
+      <class name="com.example.ParallelTestingGrid.ParallelTest">
+        <methods>
+          <include name="secondChrome"/>
+          <include name="second"/>
+          <include name="myAfterTest"/>
+          <include name="first"/>
+          <include name="afterClassMethod"/>
+          <include name="startTime"/>
+          <include name="firstChrome"/>
+          <include name="setup"/>
+          <include name="third"/>
+        </methods>
+      </class> <!-- com.example.ParallelTestingGrid.ParallelTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

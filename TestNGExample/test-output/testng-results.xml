@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54" started-at="2018-03-25T16:02:27Z" finished-at="2018-03-25T16:02:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54" started-at="2018-03-25T16:02:27Z" finished-at="2018-03-25T16:02:27Z">
+      <class name="testPkg.HelloWorld">
+        <test-method status="PASS" signature="helloWorld()[pri:0, instance:testPkg.HelloWorld@643b1d11]" name="helloWorld" duration-ms="13" started-at="2018-03-25T16:02:27Z" finished-at="2018-03-25T16:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorld -->
+        <test-method status="PASS" signature="helloWorld2()[pri:0, instance:testPkg.HelloWorld@643b1d11]" name="helloWorld2" duration-ms="2" started-at="2018-03-25T16:02:27Z" finished-at="2018-03-25T16:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorld2 -->
+      </class> <!-- testPkg.HelloWorld -->
+      <class name="testPkg.temp2">
+        <test-method status="PASS" signature="hello3()[pri:0, instance:testPkg.temp2@6d00a15d]" name="hello3" duration-ms="2" started-at="2018-03-25T16:02:27Z" finished-at="2018-03-25T16:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello3 -->
+      </class> <!-- testPkg.temp2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
